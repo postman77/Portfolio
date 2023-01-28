@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4b1c757b.css",
-    "main.js": "/Portfolio/static/js/main.8e531f64.js",
+    "main.js": "/Portfolio/static/js/main.8bc1b58c.js",
     "static/media/project3.png": "/Portfolio/static/media/project3.9189e5bcb3d416c135df.png",
     "static/media/Mahamed Ali Resume.pdf": "/Portfolio/static/media/Mahamed Ali Resume.e064c4eac91b1620c763.pdf",
     "static/media/project1.png": "/Portfolio/static/media/project1.55710aff73a7668ad1c5.png",
@@ -14,10 +14,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.4b1c757b.css.map": "/Portfolio/static/css/main.4b1c757b.css.map",
-    "main.8e531f64.js.map": "/Portfolio/static/js/main.8e531f64.js.map"
+    "main.8bc1b58c.js.map": "/Portfolio/static/js/main.8bc1b58c.js.map"
   },
   "entrypoints": [
     "static/css/main.4b1c757b.css",
-    "static/js/main.8e531f64.js"
+    "static/js/main.8bc1b58c.js"
   ]
 }
